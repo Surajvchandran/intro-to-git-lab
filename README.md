@@ -13,3 +13,7 @@ This project basically consists of creating a Github repository and modifying it
 
 ## How to Run this Project
 "git clone <repository url> will clone the repository to the local machine and by refreshing the github will show the contents edited in the cloned local machine. 
+
+
+## Creating changes to Readme file
+This is a small edit to Readme File
